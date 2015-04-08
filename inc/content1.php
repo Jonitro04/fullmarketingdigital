@@ -18,7 +18,7 @@
 
                                     <h3 class="nocaps">MAIL - O - CLIC</h3>
 
-                                    <p>There are variations available majoritaey suffered alteration words which look even believable.</p>
+                                    <p>La solution idéale pour pouvoir communiquer par mail tout en controlant son ROI.</p>
                                     <br />
                                     <a href="#" class="readmore_but1">Read more +</a>
 
