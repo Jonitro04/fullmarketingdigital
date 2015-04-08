@@ -9,8 +9,8 @@
                 <div class="left">
 
                     <ul>
-                        <li><a href="mailto:info@yourdomain.com"><i class="fa fa-envelope"></i> info@yourdomain.com</a></li>
-                        <li><i class="fa fa-phone-square"></i> +88 123 456 7890</li>
+                        <li><a href="mailto:contact@instamailmedia.com"><i class="fa fa-envelope"></i> contact@instamailmedia.com</a></li>
+                        <li><i class="fa fa-phone-square"></i> +33 (0)9 53 30 25 88</li>
                     </ul>
 
                 </div><!-- end left links -->
@@ -18,8 +18,8 @@
                 <div class="right">
 
                     <ul>
-                        <li class="link"><a class="fancybox fancybox.ajax" href="login-frame.html">Login</a></li>
-                        <li class="link"><a class="fancybox fancybox.ajax" href="register-frame.html">Register</a></li>
+                        <li class="link"><a href="contact">Login</a></li>-->
+                        <!--<li class="link"><a class="fancybox fancybox.ajax" href="register-frame.html">Register</a></li>-->
                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                         <li><a href="#"><i class="fa fa-google-plus"></i></a></li>

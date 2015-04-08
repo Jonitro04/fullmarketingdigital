@@ -11,7 +11,7 @@
 				<li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
                 
 					<!-- MAIN IMAGE -->
-					<img src="http://placehold.it/1920x610" alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+                                        <img src="/web/images/sliders/slider1.png" alt=""  data-bgfit="cover" data-bgposition="center botton" data-bgrepeat="no-repeat">
                        
                     <div class="tp-caption bigtext sfb"
 						data-x="center"
@@ -24,7 +24,7 @@
 						data-endspeed="300"
 						data-endeasing="Power1.easeIn"
 						data-captionhidden="off"
-						style="z-index: 6">unique <strong>designs</strong>
+						style="z-index: 6">Web Agency <strong>INSTAMAILMEDIA</strong>
 					</div>
                     
                     <div class="tp-caption smalltext sfb"
@@ -38,7 +38,7 @@
 						data-endspeed="300"
 						data-endeasing="Power1.easeIn"
 						data-captionhidden="off"
-						style="z-index: 6">Powerfully Creativity with Professional Clean Developed Themes <br /> We Build Smarter Stuff - Let’s Start an Awesome Project!
+                                                style="z-index: 6"><strong>Expert en Stratégie et Marketing digitale</strong>
 					</div>
                     
                     <div class="tp-caption slider_but1 sfb"
@@ -52,7 +52,7 @@
 						data-endspeed="300"
 						data-endeasing="Power1.easeIn"
 						data-captionhidden="off"
-						style="z-index: 6"><a href="#">Get started</a>
+						style="z-index: 6"><a href="#">Mail-O-Clic</a>
 					</div>
                     
                     <div class="tp-caption slider_but2 sfb"

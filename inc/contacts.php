@@ -1,12 +1,12 @@
 <!-- Contant
 ======================================= -->
-<link rel="stylesheet" href="js/form/sky-forms.css" type="text/css" media="all">
+
 <div class="page_title2">
 <div class="container">
 
-    <div class="title"><h1>Contact Style 1</h1></div>
+    <div class="title"><h1>Contactez Nous</h1></div>
     
-    <div class="pagenation">&nbsp;<a href="index.html">Home</a> <i>/</i> <a href="#">Contact</a> <i>/</i> Contact Style 1</div>
+    <div class="pagenation">&nbsp;<a href="index.html">Accueil</a> <i>/</i> <a href="#">Contact</a> <i>/</i> Contact Style 1</div>
     
 </div>
 </div><!-- end page title --> 
@@ -96,3 +96,6 @@
     </div>
     
   </div>
+ 
+
+<div class="clearfix margin_top7"></div>

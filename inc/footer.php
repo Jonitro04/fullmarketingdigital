@@ -2,7 +2,7 @@
 
 <div class="footer1">
 <div class="container">
-	
+	 
     <div class="one_fourth">
 		
     <ul class="faddress">
@@ -55,18 +55,7 @@
     
     <div class="one_fourth last">
         
-        <h3 class="nocaps">Flickr Photos</h3>
-        
-        <div id="flickr_badge_wrapper">
-            <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=6&amp;display=latest&amp;size=s&amp;layout=h&amp;source=user&amp;user=93382411%40N07"></script>     
-        </div>
-        
-    </div><!-- end flickr -->
-    
-    <div class="clearfix divider_line3"></div>
-    
-    <div class="one_fourth">
-    <div class="newsletter">
+        <div class="newsletter">
     
     	<h3 class="lmb nocaps">Newsletter</h3>
         
@@ -80,49 +69,6 @@
         
     </div>
 	</div><!-- end newsletter sign up -->
-    
-    <div class="one_fourth">
-    <div class="qlinks">
-    
-    	<h3 class="lmb nocaps">Quick Links</h3>
-        
-        <ul>
-            <li><a href="#"><i class="fa fa-angle-right"></i> 10 Diffrent Home Variations</a></li>
-            <li><a href="#"><i class="fa fa-angle-right"></i> 5 Plus Awsome Slidershows</a></li>
-            <li><a href="#"><i class="fa fa-angle-right"></i> 5 Plus Diffrent Header Designs</a></li>
-            <li><a href="#"><i class="fa fa-angle-right"></i> 50 Plus Beautiful Unique Sections</a></li>
-            <li><a href="#"><i class="fa fa-angle-right"></i> Single and Portfolios</a></li>
-        </ul>
-        
-    </div>
-	</div><!-- end links -->
-    
-    <div class="one_fourth">
-    <div class="frposts">
-    
-    	<h3 class="lmb nocaps">Recent Posts</h3>
-        
-        <ul>
-            <li><a href="#"><i class="fa fa-caret-right"></i> Consectetuer adipiscn endisse</a></li>
-            <li><a href="#"><i class="fa fa-caret-right"></i> Adipiscing luctus nisl magna</a></li>
-            <li><a href="#"><i class="fa fa-caret-right"></i> 5 Plus Diffrent Header Designs</a></li>
-            <li><a href="#"><i class="fa fa-caret-right"></i> Aliquam rhoncus, venenatis quis</a></li>
-        </ul>
-        
-    </div>
-	</div><!-- end links -->
-    
-    <div class="one_fourth last">
-    <div class="siteinfo">
-    
-    	<h3 class="lmb nocaps">About elos</h3>
-        
-        <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>
-        <br />
-        <a href="#">Read more <i class="fa fa-long-arrow-right"></i></a>
-        
-	</div>
-    </div><!-- end site info -->
     
 </div>
 </div><!-- end footer -->
@@ -186,6 +132,10 @@
 <!-- jquery jcarousel -->
 <script type="text/javascript" src="web/js/carousel/jquery.jcarousel.min.js"></script>
 
+<script src="web/js/form/jquery.form.min.js"></script>
+
+<script src="web/js/form/jquery.validate.min.js"></script>
+
 <!-- scroll up -->
 <script src="web/js/scrolltotop/totop.js" type="text/javascript"></script>
 
@@ -236,6 +186,69 @@
 <script type="text/javascript" src="web/js/lightbox/jquery.fancybox.js"></script>
 <script type="text/javascript" src="web/js/lightbox/custom.js"></script>
 
+<script type="text/javascript">
+			$(function()
+			{
+				// Validation
+				$("#sky-form").validate(
+				{					
+					// Rules for form validation
+					rules:
+					{
+						name:
+						{
+							required: true
+						},
+						email:
+						{
+							required: true,
+							email: true
+						},
+						message:
+						{
+							required: true,
+							minlength: 10
+						}
+					},
+										
+					// Messages for form validation
+					messages:
+					{
+						name:
+						{
+							required: 'Please enter your name',
+						},
+						email:
+						{
+							required: 'Please enter your email address',
+							email: 'Please enter a VALID email address'
+						},
+						message:
+						{
+							required: 'Please enter your message'
+						}
+					},
+										
+					// Ajax form submition					
+					submitHandler: function(form)
+					{
+						$(form).ajaxSubmit(
+						{
+							success: function()
+							{
+								$("#sky-form").addClass('submited');
+							}
+						});
+					},
+					
+					// Do not change code below
+					errorPlacement: function(error, element)
+					{
+						error.insertAfter(element.parent());
+					}
+				});
+			});			
+		</script>
 
 <script type="text/javascript">
 	// Menu drop down effect

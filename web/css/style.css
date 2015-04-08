@@ -7,10 +7,11 @@
 	float:left;
 	display:block;
 	width:100%;
-	min-height: 40px;
-	margin-top:5px;
+	min-height: 50px;
+	//margin-top:5px;
+        margin-bottom: 4px;
 	text-indent:-999em;
-	background:url(../images/logo.png) no-repeat left bottom;
+	background:url(../images/media/logoinsta.png) no-repeat left bottom;
 }
 
 
@@ -407,6 +408,8 @@ h3.ipages_title1.two {
         background: #333;
 }
 
+
+
 /* features section 2 */
 .features_sec2 {
 	float: left;
@@ -454,7 +457,7 @@ h3.ipages_title1.two {
 	width: 100%;
 	text-align: center;
 	padding: 70px 0px 70px 0px;
-	background: url("../images/parallax-bg2.jpg");
+	background: url("../images/sliders/idea.png");
 	background-attachment: fixed;
 	background-origin: initial;
 	background-clip: initial;
@@ -2560,11 +2563,12 @@ ul.fun_facts {
 .page_title {
 	float: left;
 	width: 100%;
-	padding: 90px 0px 85px 0px;
+	padding: 10px 0px 85px 0px;
 	text-align: center;
 	font-size: 16px;
 	color: #999;
 	background: url(../images/elements/pattern11.png) repeat left top;
+        height: 40px;
 }
 .page_title.two {
 	padding: 50px 0px 30px 0px;

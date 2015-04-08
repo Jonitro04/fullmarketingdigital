@@ -5,7 +5,7 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js"> <!--<![endif]-->
 
 <head>
-	<title>elos - Multipurpose HTML5 Template</title>
+	<title>INSTAMAILMEDIA</title>
 	
 	<meta charset="utf-8">
 	<meta name="keywords" content="" />
@@ -15,7 +15,7 @@
     <link rel="shortcut icon" href="web/images/favicon.ico">
     
     <!-- this styles only adds some repairs on idevices  -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     
     <!-- Google fonts - witch you want to use - (rest you can just remove) -->
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
@@ -93,7 +93,7 @@
     <link rel="stylesheet" href="web/js/accordion/accordion.css" type="text/css" media="all">
         
     <!-- forms -->
-    <link rel="stylesheet" href="js/form/sky-forms.css" type="text/css" media="all"> 
+    <link rel="stylesheet" href="web/js/form/sky-forms.css" type="text/css" media="all"> 
  
     <!-- Lightbox -->
     <link rel="stylesheet" type="text/css" href="web/js/lightbox/jquery.fancybox.css" media="screen" />

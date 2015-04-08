@@ -1,4 +1,42 @@
 <div id="trueHeader">
+    <div id="topHeader">
+
+                <div class="wrapper">
+
+                <div class="top_nav">
+                <div class="container">
+
+                <div class="left">
+
+                    <ul>
+                        <li><a href="mailto:contact@instamailmedia.com"><i class="fa fa-envelope"></i> contact@instamailmedia.com</a></li>
+                        <li><i class="fa fa-phone-square"></i> +33 (0)9 53 30 25 88</li>
+                    </ul>
+
+                </div><!-- end left links -->
+
+                <div class="right">
+
+                    <ul>
+                        <li class="link"><a href="contact">Login</a></li>
+                        <!--<li class="link"><a class="fancybox fancybox.ajax" href="register-frame.html">Register</a></li>-->
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="#"><i class="fa fa-flickr"></i></a></li>
+                        <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                        <li><a href="#"><i class="fa fa-rss"></i></a></li>
+                    </ul>
+
+                </div><!-- end right social links -->
+
+                </div>
+                </div>
+
+                </div>
+
+                </div><!-- end top navigation -->
     
 	<div class="wrapper">
     
@@ -17,45 +55,26 @@
         
             <div id="defaultmenu" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li class="dropdown active"><a href="index.html" data-toggle="dropdown" class="dropdown-toggle">Home</a>
-                        <ul class="dropdown-menu" role="menu">
-                            <li><a href="index-1.html">Home Version 1</a></li>
-                            <li><a href="index-2.html">Home Version 2</a></li>
-                            <li><a href="index-3.html">Home Version 3</a></li>
-                            <li><a href="index-4.html">Home Version 4</a></li>
-                            <li><a href="index-5.html">Home Version 5</a></li>
-                            <li><a href="index-6.html">Home Version 6</a></li>
-                            <li><a href="index-7.html">Home Version 7</a></li>
-                            <li><a href="index-8.html">Home Version 8</a></li>
-                            <li><a href="index-9.html">Home Version 9</a></li>
-                            <li><a href="index-10.html">Home All</a></li>
-                        </ul><!-- end dropdown-menu -->
-          			</li>
+                    <li class="dropdown active"><a href="/index.php" >Accueil</a></li>
                     
                     
-                    <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Sliders</a>
-                  <ul class="dropdown-menu" role="menu">
-                            <li><a href="index-1.html">Slider One</a></li>
-                            <li><a href="index-2.html">Slider Two</a></li>
-                            <li><a href="index-3.html">Slider Three</a></li>
-                            <li><a href="index-4.html">Slider Four</a></li>
-                            <li><a href="index.html">Slider Five</a></li>
-                        </ul><!-- end dropdown-menu -->
-          			</li>
+                    <li class="dropdown"><a href="/legroupe">Le Groupe</a></li>
                     
                 	
-                    <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Headers</a>
+                    <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Nos Solutions</a>
                   <ul class="dropdown-menu" role="menu">
-                            <li><a href="index-6.html">Header Version 1</a></li>
-                            <li><a href="index-7.html">Header Version 2</a></li>
-                            <li><a href="index-8.html">Header Version 3</a></li>
-                            <li><a href="index-9.html">Header Version 4</a></li>
-                            <li><a href="index-10.html">Small Header</a></li>
+                      <li><a href="/mailoclic">Mail-O-Clic</a></li>
+                            <li><a href="/leadmania">Leadmania</a></li>
+                            <li><a href="/myappsdigit">Myappsdigit</a></li>
+                            <li><a href="/myaffdigit">Myaffdigit</a></li>
+                            <li><a href="/mysocialnetwork">Mysocialnetwork</a></li>
+                            <li><a href="/agencedigital">Agence Digital</a></li>
+                            <li><a href="/myemailaction">Myemailaction</a></li>
                         </ul><!-- end dropdown-menu -->
           			</li>
                     
                     
-                    <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Pages</a>
+                    <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Nos References</a>
                   <ul class="dropdown-menu" role="menu">
                             <li><a href="about.html">About Page Style 1</a></li>
                             <li><a href="about-2.html">About Page Style 2</a></li>
@@ -84,7 +103,7 @@
           			</li>
                     
                     
-                    <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Portfolio</a>
+                    <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Actualite</a>
                   <ul class="dropdown-menu" role="menu">
                             <li><a href="portfolio-one.html">Single Image</a></li>
                             <li><a href="portfolio-two.html">Portfolio Columns 2</a></li>
@@ -97,7 +116,7 @@
           			</li>
                     
                     
-                    <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Blog</a>
+                    <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Rejoignez nous</a>
                   <ul class="dropdown-menu" role="menu">
                             <li><a href="blog.html">with Large Image</a></li>
                             <li><a href="blog-2.html">with Small Image</a></li>
@@ -109,67 +128,7 @@
                     
                 	
                     <!-- Mega Menu -->
-			  <li class="dropdown fhmm-fw"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Features</a>
-                        <ul class="dropdown-menu fullwidth">
-                            <li class="fhmm-content">
-                                <div class="row">
-                                    <div class="col-sm-4">
-                                  		<p>Donec tortor augue, semper eu convallis vitae, mollis commodo neque. Sed mi erat, dictum id ultricies adipiscing, viverra.</p>
-                                        <br />
-                            			<img src="images/site-img99.jpg" alt="" />
-										
-                                    </div><!-- end col-4 -->
-                                    
-                                    <div class="col-sm-2">
-                                    	<h3 class="title">Useful Pages</h3>
-                                        <ul>
-                                            <li><a href="elements.html"><i class="fa fa-angle-right"></i> Elements</a></li>
-                                            <li><a href="typography.html"><i class="fa fa-angle-right"></i> Typography</a></li>
-                                            <li><a href="pricing-tables.html"><i class="fa fa-angle-right"></i> Pricing Tables</a></li>
-                                            <li><a href="columns.html"><i class="fa fa-angle-right"></i> Page Columns</a></li>
-                                            <li><a href="team.html"><i class="fa fa-angle-right"></i> Our Team</a></li>
-                                            <li><a href="faqs.html"><i class="fa fa-angle-right"></i> FAQs</a></li>
-                                            <li><a href="tabs.html"><i class="fa fa-angle-right"></i> Tabs</a></li>
-                                            <li><a href="login.html"><i class="fa fa-angle-right"></i> Login Form</a></li>
-                                            <li><a href="register.html"><i class="fa fa-angle-right"></i> Register Form</a></li>
-                                        </ul>
-                                    </div>
-                                    
-                                    <div class="col-sm-2">
-                                    	<h3 class="title">Headers &amp; Footer</h3>
-                                        <ul>
-                                            <li><a href="index-6.html"><i class="fa fa-angle-right"></i> Header Version 1</a></li>
-                                            <li><a href="index-7.html"><i class="fa fa-angle-right"></i> Header Version 2</a></li>
-                                            <li><a href="index-8.html"><i class="fa fa-angle-right"></i> Header Version 3</a></li>
-                                            <li><a href="index-9.html"><i class="fa fa-angle-right"></i> Header Version 4</a></li>
-                                            <li><a href="index-10.html"><i class="fa fa-angle-right"></i> Header Version 5</a></li>
-                                            <li><a href="index.html"><i class="fa fa-angle-right"></i> Footer Version 1</a></li>
-                                            <li><a href="index-1.html"><i class="fa fa-angle-right"></i> Footer Version 2</a></li>
-                                            <li><a href="index-4.html"><i class="fa fa-angle-right"></i> Footer Version 3</a></li>
-                                            <li><a href="index-3.html"><i class="fa fa-angle-right"></i> Footer Version 4</a></li>
-                                        </ul>
-                                    </div>
-                                    
-                                    <div class="col-sm-2">
-                                    	<h3 class="title">More Features</h3>
-                                        <ul>
-                                            <li><a href="#"><i class="fa fa-angle-right"></i> Mega Menu</a></li>
-                                            <li><a href="#"><i class="fa fa-angle-right"></i> 10 Home Versions</a></li>
-                                            <li><a href="#"><i class="fa fa-angle-right"></i> 5 Diffrent Headers</a></li>
-                                            <li><a href="#"><i class="fa fa-angle-right"></i> 5 Diffrent Footers</a></li>
-                                            <li><a href="#"><i class="fa fa-angle-right"></i> 5 Diffrent Slide Shows</a></li>
-                                            <li><a href="#"><i class="fa fa-angle-right"></i> Video BG Effects</a></li>
-                                            <li><a href="#"><i class="fa fa-angle-right"></i> 50+ Feature Sections</a></li>
-                                            <li><a href="#"><i class="fa fa-angle-right"></i> Use for any Website</a></li>
-                                            <li><a href="#"><i class="fa fa-angle-right"></i> Free Updates</a></li>
-                                        </ul>
-                                    </div>
-                                    
-                                </div><!-- end row -->
-                                
-							</li><!-- fhmm-content -->
-                        </ul><!-- dropdown-menu -->
-                </li><!-- mega menu -->
+			  <!-- mega menu -->
 				
                 </ul><!-- end nav navbar-nav -->
           
