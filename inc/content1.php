@@ -16,21 +16,7 @@
 
                                     <div class="clearfix"></div>
 
-                                    <h3 class="nocaps">Responsive Design</h3>
-
-                                    <p>There are variations available majoritaey suffered alteration words which look even believable.</p>
-                                    <br />
-                                    <a href="#" class="readmore_but1">Read more +</a>
-
-                                </div><!-- end section -->
-
-                                <div class="one_fourth">
-
-                                    <a href=""<i class="fa fa-leaf"></i>
-
-                                    <div class="clearfix"></div>
-
-                                    <h3 class="nocaps">Five Slideshows</h3>
+                                    <h3 class="nocaps">MAIL - O - CLIC</h3>
 
                                     <p>There are variations available majoritaey suffered alteration words which look even believable.</p>
                                     <br />
@@ -44,7 +30,21 @@
 
                                     <div class="clearfix"></div>
 
-                                    <h3 class="nocaps">Multiple Headers</h3>
+                                    <h3 class="nocaps">MY EMAIL ACTION</h3>
+
+                                    <p>There are variations available majoritaey suffered alteration words which look even believable.</p>
+                                    <br />
+                                    <a href="#" class="readmore_but1">Read more +</a>
+
+                                </div><!-- end section -->
+
+                                <div class="one_fourth">
+
+                                    <i class="fa fa-cog"></i>
+
+                                    <div class="clearfix"></div>
+
+                                    <h3 class="nocaps">MY EMAIL ACTION</h3>
 
                                     <p>There are variations available majoritaey suffered alteration words which look even believable.</p>
                                     <br />
@@ -58,7 +58,7 @@
 
                                     <div class="clearfix"></div>
 
-                                    <h3 class="nocaps">Ten Home Pages</h3>
+                                    <h3 class="nocaps">MY AFF DIGIT</h3>
 
                                     <p>There are variations available majoritaey suffered alteration words which look even believable.</p>
                                     <br />
@@ -78,7 +78,7 @@
 
                                     <div class="clearfix"></div>
 
-                                    <h3 class="nocaps">Responsive Design</h3>
+                                    <h3 class="nocaps">MY APPS DIGIT</h3>
 
                                     <p>There are variations available majoritaey suffered alteration words which look even believable.</p>
                                     <br />
@@ -92,7 +92,7 @@
 
                                     <div class="clearfix"></div>
 
-                                    <h3 class="nocaps">Five Slideshows</h3>
+                                    <h3 class="nocaps">MY SOCIAL NETWORKS</h3>
 
                                     <p>There are variations available majoritaey suffered alteration words which look even believable.</p>
                                     <br />
@@ -106,7 +106,7 @@
 
                                     <div class="clearfix"></div>
 
-                                    <h3 class="nocaps">Multiple Headers</h3>
+                                    <h3 class="nocaps">AGENCE DIGITAL</h3>
 
                                     <p>There are variations available majoritaey suffered alteration words which look even believable.</p>
                                     <br />
