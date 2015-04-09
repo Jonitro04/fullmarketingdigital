@@ -5,7 +5,7 @@
 <div class="container">
 	
     <h1>Mail-o-clic</h1>
-    Web page editors now use Lorem Ipsum as their default model text.
+    Le Mailing responvice !
     
 </div>
 </div><!-- end page title --> 

@@ -20,19 +20,19 @@
     
       <div class="one_half">
       
-        <p>Feel free to talk to our online representative at any time you please using our Live Chat system on our website or one of the below instant messaging programs.</p>
+        <p>INSTA MAIL MEDIA est joignable du Lundi au Vendredi de 09h00 a 13h00 et de 14h00 a 18h00.</p>
         <br />
-        <p>Please be patient while waiting for response. (24/7 Support!) <strong>Phone General Inquiries: 1-888-123-4567-8900</strong></p>
+        <p>Nous sommes également disponible par e-mail. <strong>contact@instamailmedia.com</strong></p>
         <br /><br />
         
         <div class="cforms">
         
         <form action="demo-contacts.php" method="post" id="sky-form" class="sky-form">
-          <header>Contact <strong>Form</strong></header>
+          <header>Nous<strong> Contactez</strong></header>
           <fieldset>
             <div class="row">
               <section class="col col-6">
-                <label class="label">Name</label>
+                <label class="label">Nom</label>
                 <label class="input"> <i class="icon-append icon-user"></i>
                   <input type="text" name="name" id="name">
                 </label>
@@ -45,7 +45,7 @@
               </section>
             </div>
             <section>
-              <label class="label">Subject</label>
+              <label class="label">Sujet</label>
               <label class="input"> <i class="icon-append icon-tag"></i>
                 <input type="text" name="subject" id="subject">
               </label>
@@ -78,17 +78,17 @@
       
         <div class="address_info">
         
-          <h3>Address <i>Info</i></h3>
+          <h3>Notre<i> Adresse</i></h3>
           <ul>
-            <li> <strong>Company Name</strong><br />
-              2901 Marmora Road, Glassgow, Seattle, WA 98122-1090<br />
-              Telephone: +1 1234-567-89000<br />
-              FAX: +1 0123-4567-8900<br />
-              E-mail: <a href="mailto:mail@companyname.com">mail@companyname.com</a><br />
-              Website: <a href="index.html">www.yoursitename.com</a> </li>
+            <li> <strong>INSTA MAIL MEDIA</strong><br />
+              17, Rue Denis papin 93500 PANTIN<br />
+              Telephone: +33 9.53.30.25.88<br />
+              FAX: +33 9.58.30.25.88<br />
+              E-mail: <a href="mailto:contact@instamailmedia.com">contact@instamailmedia.com</a><br />
+              Website: <a href="/">www.instamailmedia.com</a> </li>
           </ul>
         </div>
-        <h3>Find the <strong>Address</strong></h3>
+        <h3>Où sommes <strong>Nous</strong></h3>
         <iframe class="google-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=WA,+United+States&amp;aq=0&amp;oq=WA&amp;sll=47.605288,-122.329296&amp;sspn=0.008999,0.016544&amp;ie=UTF8&amp;hq=&amp;hnear=Washington,+District+of+Columbia&amp;t=m&amp;z=7&amp;iwloc=A&amp;output=embed"></iframe>
         <br />
         <small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=WA,+United+States&amp;aq=0&amp;oq=WA&amp;sll=47.605288,-122.329296&amp;sspn=0.008999,0.016544&amp;ie=UTF8&amp;hq=&amp;hnear=Washington,+District+of+Columbia&amp;t=m&amp;z=7&amp;iwloc=A">View Larger Map</a></small> </div>

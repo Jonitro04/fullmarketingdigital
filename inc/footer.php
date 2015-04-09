@@ -7,10 +7,10 @@
 		
     <ul class="faddress">
     	<li><img src="images/footer-logo.png" alt="" /></li>
-        <li><i class="fa fa-map-marker fa-lg"></i>&nbsp; 2901 Marmora Road, Glassgow,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seattle, WA 98122-1090</li>
-        <li><i class="fa fa-phone"></i>&nbsp; 1 -234 -456 -7890</li>
-        <li><i class="fa fa-print"></i>&nbsp; 1 -234 -456 -7890</li>
-        <li><a href="mailto:info@yourdomain.com"><i class="fa fa-envelope"></i> info@yourdomain.com</a></li>
+        <li><i class="fa fa-map-marker fa-lg"></i>&nbsp; 17, Rue Denis Papin,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;93500 Pantin, FRANCE</li>
+        <li><i class="fa fa-phone"></i>&nbsp; +33 9.53.30.25.88</li>
+        <li><i class="fa fa-print"></i>&nbsp; +33 9.58.30.25.88</li>
+        <li><a href="mailto:contact@instamailmedia.com"><i class="fa fa-envelope"></i> contact@instamailmedia.com</a></li>
 	</ul>
       
 	</div><!-- end address -->
@@ -21,15 +21,15 @@
         <h3 class="nocaps">Tags</h3>
         
         <ul>
-        	<li><a href="#">Awesome</a></li>
-            <li><a href="#">Photography</a></li>
-            <li><a href="#">UI Design</a></li>
-            <li><a href="#">Branding</a></li>
-            <li><a href="#">All</a></li>
-            <li><a href="#">Business</a></li>
-            <li><a href="#">Creative</a></li>
-            <li><a href="#">Design</a></li>
-            <li><a href="#">Wireframe</a></li>
+        	<li><a href="#">Leads</a></li>
+            <li><a href="#">Membres</a></li>
+            <li><a href="#">Newsletter</a></li>
+            <li><a href="#">Acquisition de trafic</a></li>
+            <li><a href="#">Web Agency</a></li>
+            <li><a href="#">Marketing</a></li>
+            <li><a href="#">Emarketing</a></li>
+            <li><a href="#">Mailling</a></li> 
+            <li><a href="#">Affiliation</a></li>
         </ul>
         
     </div>
@@ -59,7 +59,8 @@
     
     	<h3 class="lmb nocaps">Newsletter</h3>
         
-        <p>Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites</p>
+        <p>Inscrivez-vous a notre newsletter vous recevrez non pas de la pub !</p><p>Mais uniquement les nouveautés du groupe.</p>
+       
         <br />
         <form method="get" action="index.html">
         <input class="enter_email_input" name="samplees" id="samplees" value="E-mail Address" onFocus="if(this.value == 'E-mail Address') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'E-mail Address';}" type="text">
@@ -80,7 +81,7 @@
     
     <div class="one_half">
     
-        Copyright © 2014 elos.com. All rights reserved.  <a href="#">Terms of Use</a> | <a href="#">Privacy Policy</a>
+        Copyright © 2015 INSTAMAILMEDIA.com.  All rights reserved.  <a href="#"> CGV</a> | <a href="#"> Mentions Légales</a>
         
     </div>
     
@@ -89,11 +90,7 @@
         <ul class="footer_social_links">
             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-            <li><a href="#"><i class="fa fa-skype"></i></a></li>
-            <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-            <li><a href="#"><i class="fa fa-html5"></i></a></li>
             <li><a href="#"><i class="fa fa-youtube"></i></a></li>
             <li><a href="#"><i class="fa fa-rss"></i></a></li>
         </ul>

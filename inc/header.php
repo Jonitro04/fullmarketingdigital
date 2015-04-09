@@ -5,11 +5,12 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js"> <!--<![endif]-->
 
 <head>
-	<title>INSTAMAILMEDIA</title>
+	<title>INSTA MAIL MEDIA - WEB AGENCY</title>
 	
 	<meta charset="utf-8">
-	<meta name="keywords" content="" />
-	<meta name="description" content="" />
+	<meta name="keywords" content="marketing;lead:trafic internet;acquisitiondelead;acquisition de lead;lead;leads;membre;mailling;routeur mail;
+              agence marketing;web agency;marketing digitale;application mobile;referencement natu;collecter du lead;mailoclic;leadmania;" />
+	<meta name="description" content=" INSTAMAILMEDIA  WEB AGENCY - EXPERT EN STRATEGIE DIGITAL " />
     
     <!-- Favicon --> 
     <link rel="shortcut icon" href="web/images/favicon.ico">

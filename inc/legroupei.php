@@ -4,9 +4,7 @@
 <div class="page_title">
 <div class="container">
 	
-    <h1>Le Groupe</h1>
-    Web page editors now use Lorem Ipsum as their default model text.
-    
+    <h1>Le Groupe</h1> 
 </div>
 </div><!-- end page title --> 
 
@@ -31,7 +29,7 @@
     
     <div class="one_half">
     
-    	<h2 class="ipages_title1"><strong>Who</strong> We Are</h2>
+    	<h2 class="ipages_title1"><strong>Qui</strong> nous sommes</h2>
         
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula.</p>
         <br />
@@ -80,7 +78,7 @@
     <div class="features_sec42 two">
     <div class="container">
     
-        <h2 class="ipages_title1"><strong>meet</strong> Our Team</h2>
+        <h2 class="ipages_title1"><strong>L'</strong> équipe</h2>
         <br />
         
         <div class="one_fourth">
@@ -88,7 +86,7 @@
             
             <img src="http://placehold.it/270x245" alt="" />
             
-            <h4>John Frances</h4>
+            <h4>Morgan Cherki</h4>
             <h6 class="nocaps">CEO</h6>
             
             <p>Lorem ipsum dolor amet, consectetue Radipiscing elit et Suspendisse et justo. mattis commodo augue. Aliquam ornare hendrerit augue cars.</p>
@@ -108,8 +106,8 @@
             
             <img src="http://placehold.it/270x245" alt="" />
             
-            <h4>Lucia Penelope</h4>
-            <h6 class="nocaps">Manager</h6>
+            <h4>Jean-Christophe Peruzzy</h4>
+            <h6 class="nocaps">Directeur et ingénieur routage e-mail</h6>
             
             <p>Lorem ipsum dolor amet, consectetue Radipiscing elit et Suspendisse et justo. mattis commodo augue. Aliquam ornare hendrerit augue cars.</p>
             <br />
@@ -128,8 +126,8 @@
             
             <img src="http://placehold.it/270x245" alt="" />
             
-            <h4>Mark Adraison</h4>
-            <h6 class="nocaps">Marketing</h6>
+            <h4>Juan Carlos</h4>
+            <h6 class="nocaps">Dev Manager</h6>
             
             <p>Lorem ipsum dolor amet, consectetue Radipiscing elit et Suspendisse et justo. mattis commodo augue. Aliquam ornare hendrerit augue cars.</p>
             <br />
@@ -148,8 +146,8 @@
             
             <img src="http://placehold.it/270x245" alt="" />
             
-            <h4>Anya Siennadia</h4>
-            <h6 class="nocaps">Support</h6>
+            <h4>Jeremie Laloum</h4>
+            <h6 class="nocaps">Directeur Commercial</h6>
             
             <p>Lorem ipsum dolor amet, consectetue Radipiscing elit et Suspendisse et justo. mattis commodo augue. Aliquam ornare hendrerit augue cars.</p>
             <br />
