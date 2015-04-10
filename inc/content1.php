@@ -14,7 +14,7 @@
 
                             <div class="one_fourth">
 
-                                <i class="fa fa-coffee"></i>
+                                <i class="fa fa-reorder"></i>
 
                                 <div class="clearfix"></div>
 
@@ -29,7 +29,7 @@
 
                             <div class="one_fourth">
 
-                                <i class="fa fa-cog"></i>
+                                <i class="fa fa-indent"></i>
 
                                 <div class="clearfix"></div>
 
@@ -43,7 +43,7 @@
 
                             <div class="one_fourth">
 
-                                <i class="fa fa-cog"></i>
+                                <i class="fa fa-warning"></i>
 
                                 <div class="clearfix"></div>
 
@@ -57,7 +57,7 @@
 
                             <div class="one_fourth last">
 
-                                <i class="fa fa-trophy"></i>
+                                <i class="fa fa-cloud"></i>
 
                                 <div class="clearfix"></div>
 

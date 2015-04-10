@@ -141,7 +141,7 @@
                 <li data-transition="zoomout" data-slotamount="7" data-masterspeed="1500" >
                 
 					<!-- MAIN IMAGE -->
-					<img src="/web/images/sliders/toto2.png" alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+					<img src="/web/images/sliders/ppa.png" alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
                        
                     <div class="tp-caption bigtext sfb"
 						data-x="center"

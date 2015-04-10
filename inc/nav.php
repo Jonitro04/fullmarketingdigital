@@ -22,10 +22,7 @@
                             <!--<li class="link"><a class="fancybox fancybox.ajax" href="register-frame.html">Register</a></li>-->
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-                            <li><a href="#"><i class="fa fa-youtube"></i></a></li>
                             <li><a href="#"><i class="fa fa-rss"></i></a></li>
                         </ul>
 
@@ -58,10 +55,17 @@
                             <li class="dropdown active"><a href="/index.php" >Accueil</a></li>
 
 
-                            <li class="dropdown"><a href="/legroupe">Le Groupe</a></li>
+                            <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Le groupe</a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="about.html">Nos partenaires</a></li>
+                                    <li><a href="404.html">Nos clients</a></li>
+                                    <li><a href="404.html">Nos sites spécialisé</a></li>
+                                    </li>
+                                </ul><!-- end dropdown-menu -->
+                            </li>
 
 
-                            <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Nos Solutions</a>
+                          <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Nos Solutions</a>
                                 <ul class="dropdown-menu" role="menu">
                                     <div class="col-sm-4">
                                         <h3 class="title">B to C</h3>
@@ -89,52 +93,21 @@
 
                             <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Nos References</a>
                                 <ul class="dropdown-menu" role="menu">
-                                    <li><a href="about.html">About Page Style 1</a></li>
-                                    <li><a href="about-2.html">About Page Style 2</a></li>
-                                    <li><a href="about-3.html">About Page Style 3</a></li>
-                                    <li><a href="team.html">Our Team</a></li>
-                                    <li><a href="services.html">Services Style 1</a></li>
-                                    <li><a href="services-2.html">Services Style 2</a></li>
-                                    <li><a href="services-3.html">Services Style 3</a></li>
-                                    <li><a href="full-width.html">Full Width Page</a></li>
-                                    <li><a href="left-sidebar.html">Left Sidebar Page</a></li>
-                                    <li><a href="right-sidebar.html">Right Sidebar Page</a></li>
-                                    <li><a href="left-nav.html">Left Navigation</a></li>
-                                    <li><a href="right-nav.html">Right Navigation</a></li>
-                                    <li><a href="login.html">Login Form</a></li>
-                                    <li><a href="register.html">Registration Form</a></li>
-                                    <li><a href="404.html">404 Error Page</a></li>
-                                    <li class="dropdown-submenu">
-                                        <a href="#">Sub Menu</a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#">Menu Item 1</a></li>
-                                            <li><a href="#">Menu Item 2</a></li>
-                                            <li><a href="#">Menu Item 3</a></li>
-                                        </ul><!-- end dropdown-menu -->
+                                    <li><a href="about.html">Nos partenaires</a></li>
+                                    <li><a href="404.html">Nos clients</a></li>
+                                    <li><a href="404.html">Nos sites spécialisé</a></li>
                                     </li>
                                 </ul><!-- end dropdown-menu -->
                             </li>
 
 
-                            <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Actualite</a>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="portfolio-one.html">Single Image</a></li>
-                                    <li><a href="portfolio-two.html">Portfolio Columns 2</a></li>
-                                    <li><a href="portfolio-three.html">Portfolio Columns 3</a></li>
-                                    <li><a href="portfolio-four.html">Portfolio Columns 4</a></li>
-                                    <li><a href="portfolio-five.html">Portfolio + Sidebar</a></li>
-                                    <li><a href="portfolio-six.html">Portfolio Full Width</a></li>
-                                    <li><a href="portfolio-seven.html">Image Gallery</a></li>
-                                </ul><!-- end dropdown-menu -->
+                            <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Actualités</a>
+
                             </li>
 
 
-                            <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Rejoignez nous</a>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="blog.html">with Large Image</a></li>
-                                    <li><a href="blog-2.html">with Small Image</a></li>
-                                    <li><a href="blog-post.html">Single Post</a></li>
-                                </ul><!-- end dropdown-menu -->
+                            <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Rejoignez-nous</a>
+                             
                             </li>
 
 
@@ -147,11 +120,7 @@
 
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="#" data-toggle="dropdown" class="dropdown-toggle">Contact</a>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="contact.html">Contact Version 1</a></li>
-                                    <li><a href="contact-2.html">Contact Version 2</a></li>
-                                    <li><a href="contact-3.html">Contact Version 3</a></li>
-                                </ul><!-- end dropdown-menu -->
+
                             </li><!-- end standard drop down -->
                         </ul>
 
