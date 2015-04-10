@@ -1,88 +1,234 @@
 
 
 <div class="features_sec1">
-<h2 class="section_title_drakgray"><strong>Notre</strong> savoir faire</h2>
-<p>Depuis plusieurs années le groupe INSTA MAIL MEDIA cherche la STRATEGIE DIGITAL dont vous avez besoin.</p><p>Avec ces 4 Pôles de compétences ont arrive a aujourd'hui etre compétent dans tout ce que nous vous propossons.</p>
+    <h2 class="section_title_drakgray"><strong>Notre</strong> savoir faire</h2>
+    <p style="margin-top: -30px; margin-bottom: 40px;">Depuis plusieurs années le groupe INSTA MAIL MEDIA cherche la STRATEGIE DIGITAL dont vous avez besoin.<br/>Avec ces 4 Pôles de compétences ont arrive a aujourd'hui etre compétent dans tout ce que nous vous propossons.</p>
 
     <div class="container">
         <div id="main" role="main">
             <section class="slider">
-                <div class="flexslider carousel">
-                    <ul class="slides">
+                <ul class="slides">
 
-                        <li>
-                            <div class="container">
+                    <li>
+                        <div class="container">
 
-                                <div class="one_fourth">
+                            <div class="one_fourth">
 
-                                    <i class="fa fa-coffee"></i>
+                                <i class="fa fa-coffee"></i>
 
-                                    <div class="clearfix"></div>
+                                <div class="clearfix"></div>
 
-                                    <h3 class="nocaps">COLLECTE DE LEADS</h3>
+                                <h3 class="nocaps">COLLECTE DE LEADS</h3>
 
-                                    <p>Mailling a la performance, maitrisez votre ROI avec des solutions au CPC, CPA, CPL.</p>Jeux concours<p>
-                                        </p>Co-registration / Co-sponsoring<p></p>Booster vos ventes et augmenter le Trafic<p>
+                                <p>Mailling a la performance, maitrisez votre ROI avec des solutions au CPC, CPA, CPL.</p>Jeux concours<p>
+                                </p>Co-registration / Co-sponsoring<p></p>Booster vos ventes et augmenter le Trafic<p>
                                     <br />
                                     <a href="#" class="readmore_but1">En savoir plus</a>
 
-                                </div><!-- end section -->
+                            </div><!-- end section -->
 
-                                <div class="one_fourth">
+                            <div class="one_fourth">
 
-                                    <i class="fa fa-cog"></i>
+                                <i class="fa fa-cog"></i>
 
-                                    <div class="clearfix"></div>
+                                <div class="clearfix"></div>
 
-                                    <h3 class="nocaps">STRATEGIE MARKETING</h3>
+                                <h3 class="nocaps">STRATEGIE MARKETING</h3>
 
-                                    <p> Création ou refonte d'identité visuel et web</p><p> Confiez nous votre référencement naturel<p/><p> Campagne Google Adwords,Création de site internet</p><p> Gestion du budget marketing.</p>
-                                    <br />
-                                    <a href="#" class="readmore_but1">En savoir plus</a>
+                                <p> Création ou refonte d'identité visuel et web</p><p> Confiez nous votre référencement naturel<p/><p> Campagne Google Adwords,Création de site internet</p><p> Gestion du budget marketing.</p>
+                                <br />
+                                <a href="#" class="readmore_but1">En savoir plus</a>
 
-                                </div><!-- end section -->
+                            </div><!-- end section -->
 
-                                <div class="one_fourth">
+                            <div class="one_fourth">
 
-                                    <i class="fa fa-cog"></i>
+                                <i class="fa fa-cog"></i>
 
-                                    <div class="clearfix"></div>
+                                <div class="clearfix"></div>
 
-                                    <h3 class="nocaps">DELIVRABILITE DES <p>E-MAILS</p></h3>
+                                <h3 class="nocaps">DELIVRABILITE DES <p>E-MAILS</p></h3>
 
-                                    <p>Pour fidéliser les clients à votre marque dans la durée, vous devez les impliquer régulièrement par des messages hautement personnalisés.</p><p> Ces messages doivent les toucher au bon moment. Et au bon endroit.</p>
-                                    <br />
-                                    <a href="#" class="readmore_but1">En savoir plus</a>
+                                <p>Pour fidéliser les clients à votre marque dans la durée, vous devez les impliquer régulièrement par des messages hautement personnalisés.</p><p> Ces messages doivent les toucher au bon moment. Et au bon endroit.</p>
+                                <br />
+                                <a href="#" class="readmore_but1">En savoir plus</a>
 
-                                </div><!-- end section -->
+                            </div><!-- end section -->
 
-                                <div class="one_fourth last">
+                            <div class="one_fourth last">
 
-                                    <i class="fa fa-trophy"></i>
+                                <i class="fa fa-trophy"></i>
 
-                                    <div class="clearfix"></div>
+                                <div class="clearfix"></div>
 
-                                    <h3 class="nocaps">RESEAUX AFFILIES</h3>
+                                <h3 class="nocaps">RESEAUX AFFILIES</h3>
 
-                                    <p>Notre serieux nous a amené aujourd'hui a nous constitué un reseaux fiable et avec des bases de données hautement qualifiés ainsi que des sites(proprietaire et partenaires) a fort trafic .</p>
-                                    <br />
-                                    <a href="#" class="readmore_but1">En savoir plus</a>
+                                <p>Notre serieux nous a amené aujourd'hui a nous constitué un reseaux fiable et avec des bases de données hautement qualifiés ainsi que des sites(proprietaire et partenaires) a fort trafic .</p>
+                                <br />
+                                <a href="#" class="readmore_but1">En savoir plus</a>
 
-                                </div><!-- end section -->
+                            </div><!-- end section -->
 
-                            
 
-                            </div>
-                        </li><!-- end section -->
 
-                    </ul>
-                </div>
+                        </div>
+                    </li><!-- end section -->
+
+                </ul>
             </section>
 
         </div>
 
     </div>
 </div><!-- end features section10 -->
+
+<div class="clearfix"></div>
+
+<div class="features_sec3">
+    <div class="container">
+
+        <h2 class="section_title_drakgray"><strong>Nos</strong> Solutions</h2>
+
+        <div class="one_fourth">
+            <div class="boxsec">
+
+                <img src="images/slider/icon-1.png" alt="h" />
+
+                <h3>MAIL-o-CLIC</h3>
+
+                <p>Plateforme de mailling entre <strong>Annonceur</strong> et <strong>Editeurs</strong> uniquement a la Performance.</p><p> Mailling sur des <strong>bases de données hautement qualifiés</strong> de site par thématique de nos partenaires.</p>
+
+            </div>
+            <a href="#" class="readmore_but2">En savoir plus</a>
+        </div><!-- end section -->
+
+        <div class="one_fourth">
+            <div class="boxsec">
+
+                <img src="images/slider/icon-2.png" alt="h" />
+
+                <h3>LEAD MANIA</h3>
+
+                <p>Création ou refonte d'identité visuel et web, Confiez nous votre référencement naturel. Campagne Google Adwords,Création de site internet, Gestion du budget marketing. </p>
+
+            </div>
+            <a href="#" class="readmore_but2">En savoir plus</a>
+        </div><!-- end section -->
+
+        <div class="one_fourth">
+            <div class="boxsec">
+
+                <img src="images/icon-3.png" alt="" />
+
+                <h3>MY APPS DIGIT</h3>
+
+                <p><strong>La stratégie marketing</strong> aujourd'hui a évolué. Notre expertise nous permez aujourd'hui de vous creez une <strong>Application</strong> a votre Image ainsi qu'avec toutes les fonctionnalités requise.</p>
+
+            </div>
+            <a href="#" class="readmore_but2">En savoir plus</a>
+        </div><!-- end section -->
+
+        <div class="one_fourth last">
+            <div class="boxsec">
+
+                <img src="images/icon-4.png" alt="" />
+
+                <h3>MY EMAIL ACTION</h3>
+
+                <p>Bénéficiez de notre expérience dans l'emailing pour pouvoir communiquer au mieux avec vos abonnées.</p><p>Pour fidéliser les clients, ces messages doivent les toucher au bon moment. Et au bon endroit.</p>
+
+            </div>
+            <a href="#" class="readmore_but2">En savoir plus</a>
+        </div><!-- end section -->
+    </div>
+    <div class="container">
+
+        <div class="one_fourth">
+            <div class="boxsec">
+
+                <img src="images/slider/icon-1.png" alt="h" />
+
+                <h3>MAIL-o-CLIC</h3>
+
+                <p>Plateforme de mailling entre <strong>Annonceur</strong> et <strong>Editeurs</strong> uniquement a la Performance.</p><p> Mailling sur des <strong>bases de données hautement qualifiés</strong> de site par thématique de nos partenaires.</p>
+
+            </div>
+            <a href="#" class="readmore_but2">En savoir plus</a>
+        </div><!-- end section -->
+
+        <div class="one_fourth">
+            <div class="boxsec">
+
+                <img src="images/slider/icon-2.png" alt="h" />
+
+                <h3>LEAD MANIA</h3>
+
+                <p>Création ou refonte d'identité visuel et web, Confiez nous votre référencement naturel. Campagne Google Adwords,Création de site internet, Gestion du budget marketing. </p>
+
+            </div>
+            <a href="#" class="readmore_but2">En savoir plus</a>
+        </div><!-- end section -->
+
+        <div class="one_fourth">
+            <div class="boxsec">
+
+                <img src="images/icon-3.png" alt="" />
+
+                <h3>MY APPS DIGIT</h3>
+
+                <p><strong>La stratégie marketing</strong> aujourd'hui a évolué. Notre expertise nous permez aujourd'hui de vous creez une <strong>Application</strong> a votre Image ainsi qu'avec toutes les fonctionnalités requise.</p>
+
+            </div>
+            <a href="#" class="readmore_but2">En savoir plus</a>
+        </div><!-- end section -->
+
+        <div class="one_fourth last">
+            <div class="boxsec">
+
+                <img src="images/icon-4.png" alt="" />
+
+                <h3>MY EMAIL ACTION</h3>
+
+                <p>Bénéficiez de notre expérience dans l'emailing pour pouvoir communiquer au mieux avec vos abonnées.</p><p>Pour fidéliser les clients, ces messages doivent les toucher au bon moment. Et au bon endroit.</p>
+
+            </div>
+            <a href="#" class="readmore_but2">En savoir plus</a>
+        </div><!-- end section -->
+    </div>
+</div><!-- end features section3 -->
+
+<div class="clearfix"></div>
+
+<div class="features_sec39">
+    <div class="container">
+
+        <h2 class="section_title_drakgray"><strong>Comment</strong> nous travaillons</h2>
+
+        <div class="one_half"><img src="images/site-img45.png" alt="" class="limage" /></div><!-- end image section -->
+
+        <div class="one_half last">
+            <div class="rightsection">
+
+                <ul>
+                    <li class="icon"><i class="fa fa-coffee"></i></li>
+                    <li class="text"><h3 class="nocaps">User Research</h3> <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue.</p></li>
+                </ul>
+
+                <ul class="two active">
+                    <li class="icon"><i class="fa fa-leaf"></i></li>
+                    <li class="text"><h3 class="nocaps">Wireframes and Design</h3> <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue.</p></li>
+                </ul>
+
+                <ul class="three">
+                    <li class="icon"><i class="fa fa-cog"></i></li>
+                    <li class="text"><h3 class="nocaps">Development and Testing</h3> <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue.</p></li>
+                </ul>
+
+            </div>
+        </div><!-- end section -->
+
+    </div>
+</div><!-- end features section39 -->
 
 <div class="clearfix"></div>
 
@@ -182,125 +328,3 @@
 
     </div>
 </div><!-- end latest works -->
-
-
-<div class="clearfix"></div>
-
-<div class="features_sec39">
-    <div class="container">
-
-        <h2 class="section_title_drakgray"><strong>Comment</strong> nous travaillons</h2>
-
-        <div class="one_half"><img src="images/site-img45.png" alt="" class="limage" /></div><!-- end image section -->
-
-        <div class="one_half last">
-            <div class="rightsection">
-
-                <ul>
-                    <li class="icon"><i class="fa fa-coffee"></i></li>
-                    <li class="text"><h3 class="nocaps">User Research</h3> <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue.</p></li>
-                </ul>
-
-                <ul class="two active">
-                    <li class="icon"><i class="fa fa-leaf"></i></li>
-                    <li class="text"><h3 class="nocaps">Wireframes and Design</h3> <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue.</p></li>
-                </ul>
-
-                <ul class="three">
-                    <li class="icon"><i class="fa fa-cog"></i></li>
-                    <li class="text"><h3 class="nocaps">Development and Testing</h3> <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis commodo augue. Aliquam ornare hendrerit augue.</p></li>
-                </ul>
-
-            </div>
-        </div><!-- end section -->
-
-    </div>
-</div><!-- end features section39 -->
-
-<div class="clearfix"></div>
-
-<div class="features_sec3">
-    <div class="container">
-
-        <h2 class="section_title_white"><strong>Notre</strong> savoir faire</h2>
-
-        <div class="one_fourth">
-            <div class="boxsec">
-
-                <img src="images/slider/icon-1.png" alt="h" />
-
-                <h3>MAIL-o-CLIC</h3>
-
-                <p>Plateforme de mailling entre <strong>Annonceur</strong> et <strong>Editeurs</strong> uniquement a la Performance.</p><p> Mailling sur des <strong>bases de données hautement qualifiés</strong> de site par thématique de nos partenaires.</p>
-
-            </div>
-            <a href="#" class="readmore_but2">En savoir plus</a>
-        </div><!-- end section -->
-
-        <div class="one_fourth">
-            <div class="boxsec">
-
-                <img src="images/slider/icon-2.png" alt="h" />
-
-                <h3>LEAD MANIA</h3>
-
-                <p>Création ou refonte d'identité visuel et web, Confiez nous votre référencement naturel. Campagne Google Adwords,Création de site internet, Gestion du budget marketing. </p>
-
-            </div>
-            <a href="#" class="readmore_but2">En savoir plus</a>
-        </div><!-- end section -->
-
-        <div class="one_fourth">
-            <div class="boxsec">
-
-                <img src="images/icon-3.png" alt="" />
-
-                <h3>MY APPS DIGIT</h3>
-
-                <p><strong>La stratégie marketing</strong> aujourd'hui a évolué. Notre expertise nous permez aujourd'hui de vous creez une <strong>Application</strong> a votre Image ainsi qu'avec toutes les fonctionnalités requise.</p>
-
-            </div>
-            <a href="#" class="readmore_but2">En savoir plus</a>
-        </div><!-- end section -->
-
-        <div class="one_fourth last">
-            <div class="boxsec">
-
-                <img src="images/icon-4.png" alt="" />
-
-                <h3>MY EMAIL ACTION</h3>
-
-                <p>Bénéficiez de notre expérience dans l'emailing pour pouvoir communiquer au mieux avec vos abonnées.</p><p>Pour fidéliser les clients, ces messages doivent les toucher au bon moment. Et au bon endroit.</p>
-
-            </div>
-            <a href="#" class="readmore_but2">En savoir plus</a>
-        </div><!-- end section -->
-        
-         <div class="one_fourth last">
-            <div class="boxsec">
-
-                <img src="images/icon-4.png" alt="" />
-
-                <h3>MY EMAIL ACTION</h3>
-
-                <p>Bénéficiez de notre expérience dans l'emailing pour pouvoir communiquer au mieux avec vos abonnées.</p><p>Pour fidéliser les clients, ces messages doivent les toucher au bon moment. Et au bon endroit.</p>
-
-            </div>
-            <a href="#" class="readmore_but2">En savoir plus</a>
-        </div><!-- end section -->
-        
-        <div class="one_fourth">
-            <div class="boxsec">
-
-                <img src="images/icon-3.png" alt="" />
-
-                <h3>MY APPS DIGIT</h3>
-
-                <p><strong>La stratégie marketing</strong> aujourd'hui a évolué. Notre expertise nous permez aujourd'hui de vous creez une <strong>Application</strong> a votre Image ainsi qu'avec toutes les fonctionnalités requise.</p>
-
-            </div>
-            <a href="#" class="readmore_but2">En savoir plus</a>
-        </div><!-- end section -->
-   
-    </div>
-</div><!-- end features section3 -->

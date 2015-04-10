@@ -242,6 +242,7 @@ h2.section_title_white {
 	font-weight: 200;
 	background: url(../images/title-hline.png) no-repeat center bottom;
 	margin-bottom: 70px;
+        margin-top: -50px;
 }
 h2.section_title_white strong {
 	font-weight: 500;
@@ -259,6 +260,7 @@ h2.section_title_drakgray {
 	font-weight: 200;
 	background: url(../images/title-hline2.png) no-repeat center bottom;
 	margin-bottom: 59px;
+        margin-top: -50px;
 }
 h2.section_title_drakgray strong {
 	font-weight: 500;
@@ -395,6 +397,13 @@ h3.ipages_title1.two {
 }
 .features_sec1 .one_fourth.active .readmore_but1 {
 	color: #fc4242;
+}
+
+//-----CREER PAR JC INSTAMAIMEDIA-------
+
+#premier-texte{
+    
+    margin-top: -500px;
 }
 
 
@@ -5505,6 +5514,17 @@ a.knowmore_but:hover {
 	color: #fff;
 	background-color: #272727;
 }
+
+
+
+
+//-----MENU DOUBLE--------
+.dropdown .dropdown-menu .col-sm-4 li a:hover{
+    
+    background: #8aa6a6;
+}
+
+
 
 
 .top_nav .right li.link {

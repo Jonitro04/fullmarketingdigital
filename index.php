@@ -3,4 +3,4 @@
 <?php add('nav'); ?> 
 <?php add('slider'); ?> 
 <?php add('content1'); ?>
-<?php add('footer'); ?>     
+<?php add('footer'); ?>      
