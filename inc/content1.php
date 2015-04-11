@@ -6,13 +6,11 @@
 
     <div class="container">
         <div id="main" role="main">
-            <section class="slider">
-                <ul class="slides">
 
-                    <li>
+                    
                         <div class="container">
 
-                            <div class="one_fourth">
+                            <div id="firstid0" class="one_fourth">
 
                                 <i class="fa fa-reorder"></i>
 
@@ -27,7 +25,7 @@
 
                             </div><!-- end section -->
 
-                            <div class="one_fourth">
+                            <div id="firstid1" class="one_fourth">
 
                                 <i class="fa fa-indent"></i>
 
@@ -41,7 +39,7 @@
 
                             </div><!-- end section -->
 
-                            <div class="one_fourth">
+                            <div id="firstid2" class="one_fourth">
 
                                 <i class="fa fa-warning"></i>
 
@@ -55,7 +53,7 @@
 
                             </div><!-- end section -->
 
-                            <div class="one_fourth last">
+                            <div id="firstid3" class="one_fourth last">
 
                                 <i class="fa fa-cloud"></i>
 
@@ -72,10 +70,7 @@
 
 
                         </div>
-                    </li><!-- end section -->
 
-                </ul>
-            </section>
 
         </div>
 

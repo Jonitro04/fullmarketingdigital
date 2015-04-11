@@ -29,6 +29,7 @@
     <!-- ######### CSS STYLES ######### -->
 	
     <link rel="stylesheet" href="web/css/reset.css" type="text/css" />
+    <link rel="stylesheet" href="web/css/jcstyle.css" type="text/css" />
 	<link rel="stylesheet" href="web/css/style.css" type="text/css" />
     
     <link rel="stylesheet" href="web/css/font-awesome/css/font-awesome.min.css">
