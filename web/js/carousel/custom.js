@@ -5,7 +5,7 @@ $(window).load(function(){
   $('.flexslider').flexslider({
     animation: "slide",
     animationLoop: false,
-    itemWidth: 1170,
+    itemWidth: 2000,
     itemMargin: 5,
     pausePlay: true,
     start: function(slider){
