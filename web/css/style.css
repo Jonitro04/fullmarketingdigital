@@ -376,6 +376,23 @@ h3.ipages_title1.two {
 	border-radius: 100%;
 	margin-bottom: 30px;
 }
+
+.features_sec1 .one_fourth{
+    height: 350px;
+}
+
+.nocaps{
+    
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+
+.features_sec1 p{
+    
+    font-size: 12px;
+}
+
 .features_sec1 .one_fourth:hover i {
 	color: #fc4242;
 	border:1px solid #fc4242;
@@ -479,6 +496,7 @@ h3.ipages_title1.two {
 	padding: 30px 15%;
 	background-color: #fff;
 	border-bottom: 4px solid #fc4242;
+        height: 320px;
 }
 .features_sec3 .boxsec h3 {
 	margin-top: 25px;
