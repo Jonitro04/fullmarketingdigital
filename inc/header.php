@@ -6,7 +6,6 @@
 
     <head>
         <title>INSTA MAIL MEDIA - WEB AGENCY</title>
-
         <meta charset="utf-8">
         <meta name="keywords" content="marketing;lead:trafic internet;acquisitiondelead;acquisition de lead;lead;leads;membre;mailling;routeur mail;
               agence marketing;web agency;marketing digitale;application mobile;referencement natu;collecter du lead;mailoclic;leadmania;" />

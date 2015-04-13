@@ -16,9 +16,10 @@
 }
 .items{
     float:left;
-    width:300px;
+    width:1200px;
     height:200px;
     position:relative;
+    margin-left: 60px;
 }
 #article1, #article2{
     overflow:hidden;
@@ -42,11 +43,11 @@
     overflow:hidden;
 }
 #article2:target .contents, #article3:target .contents, #article4:target .contents{
-    -webkit-transform: translate(-300px, 0px);
-    -moz-transform: translate(-300px, 0px);
-    -o-transform: translate(-300px, 0px);
-    -ms-transform: translate(-300px, 0px);
-    transform: translate(-300px, 0px);
+    -webkit-transform: translate(-1200px, 0px);
+    -moz-transform: translate(-1400px, 0px);
+    -o-transform: translate(-1400px, 0px);
+    -ms-transform: translate(-1400px, 0px);
+    transform: translate(-1400px, 0px);
 }
 #article3:target .contents{
     -webkit-transform: translate(-600px, 0px);
