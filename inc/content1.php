@@ -1,4 +1,4 @@
-x   
+   
 
 <div class="features_sec1">
     <h2 class="section_title_drakgray"><strong>Notre</strong> savoir faire</h2>
