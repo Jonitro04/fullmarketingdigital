@@ -1,0 +1,15 @@
+//-----CREER PAR JC INSTAMAIMEDIA-------
+
+
+//#firstid1{
+  //  border: red solid 1px;
+  //  padding-top: 10px;
+//}
+
+#firstid0, #firstid1, #firstid2, #firstid3 {
+    border: red solid 1px !important;
+    padding-top: 10px;
+    min-height: 200px !important; 
+} 
+
+ 
