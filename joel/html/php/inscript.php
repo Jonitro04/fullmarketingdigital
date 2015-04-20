@@ -56,20 +56,6 @@
                     boutton{
                         margin-left: .5em;
                     }
-                    #sticker {
-      background: #bada55;
-      color: white;
-      width: 300px;
-      font-family: Droid Sans;
-      font-size: 40px;
-      line-height: 1.6em;
-      font-weight: bold;
-      text-align: center;
-      padding: 20px;
-      margin: 0 auto;
-      text-shadow: 0 1px 1px rgba(0,0,0,.2);
-      border-radius: 50px;
-    }
 		</style>
 		<script type="text/javascript" src="../../js/popup.js"></script>
                 <script src="//code.jquery.com/jquery-1.10.2.js"></script>
@@ -170,9 +156,6 @@
                                                     </div>						
                                                     <div class="boutton">
                                                         <input type='submit' name='valider' value='Valider et confirmer'>
-                                                    </div>
-                                                    <div id="sticker">
-                                                        <p> Votre compte a été créer avec succès !! </p>
                                                     </div>
                                 </form>
                             
