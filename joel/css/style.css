@@ -61,6 +61,7 @@ ul li:hover a{
 }
 section{
 	width: 100%;
+        height: 750px;
 }
 .img{
 	float: left;
@@ -68,7 +69,7 @@ section{
 	width: 96%;
 	height: 14em;
 	margin: 2%;
-	margin-bottom: 2em;
+	margin-bottom: 5em;
 	background-color: grey;
 }
 .img2{
@@ -96,6 +97,7 @@ section{
 	width: 42%;
 	height: 14em;
 	margin: 2%;
+        margin-top: 4em;
 	//background-color: grey;
 }
 .img3{
@@ -136,6 +138,7 @@ footer{
 	clear: left;
 	width: 80%;
 	margin: auto;
+        margin-top: 2em;
 	height: 1.5em;
 	text-align: center;
 	background-color: rgba(255, 255, 255, 0.5);

@@ -81,17 +81,13 @@ if($mysqli->connect_error)
 {
 	die ("Un problème est survenu lors de la tentative de connexion à la BDD : ".$mysqli->error);
 }
-//$mysqli->set_charset("UTF-8");// à utiliser en cas de pb d'encodage.
+$mysqli->set_charset("UTF-8");// à utiliser en cas de pb d'encodage.
 //print_r($mysqli);
-print_r($_POST);
 
-$mail = $_POST['mail'];
+$mail = @$_POST['mail'];
 
 $mysqli->query('DELETE FROM user WHERE mail = "' .$mail.'"');
 
-
-
-print_r('DELETE FROM user WHERE mail = "' .$mail.'"');
 
 $mail = @htmlentities($_POST['mail']);
 				$to = $mail;

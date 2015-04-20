@@ -65,6 +65,13 @@
                      $( "#datepicker" ).datepicker({dateFormat: 'dd-mm-yy'}).val();
                     });
                 </script>
+                <script src="jquery.js"></script>
+                <script src="../../js/jquery.sticky.js"></script>
+                <script>
+                     $(document).ready(function(){
+                     $("#sticker").sticky({topSpacing:0});
+                     });
+                </script>
 	</head>
 	<body>
 		<header>	
@@ -149,7 +156,10 @@
                                                     </div>						
                                                     <div class="boutton">
                                                         <input type='submit' name='valider' value='Valider et confirmer'>
-                                                    </div>								
+                                                    </div>
+                                                    <div id="">
+                                                        
+                                                    </div>
                                 </form>
                             
                         </div>
