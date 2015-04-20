@@ -1,0 +1,150 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+html{
+	background-color: rgba(128, 128, 128, 0.4);
+}
+
+body{
+	margin: auto;
+	width: 80%;
+}
+
+header{
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+#seul{
+	color: rgba(0, 0, 255, 0.8);
+}
+#logo{
+	width: 20%;
+	height: 5em;
+	margin-left: 5%;
+	border-radius: 10px;
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, 1);
+	position: absolute;
+	z-index: 10;
+	text-align: left;
+	box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.5);
+	transform:rotate(-5deg); 
+	-webkit-transform:rotate(-5deg);
+	-ms-transform:rotate(-5deg); 
+	-moz-transform:rotate(-5deg); 
+	-o-transform:rotate(-5deg);
+}
+#logo img{
+	margin-left: 0px;
+}
+nav{
+	margin-top: 1em;
+	width: 100%;
+	height: 3em;
+	text-align: right;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+ul li{
+	display: inline-block;
+	line-height: 3em;
+	margin-right: 3%;
+}
+ul li a{
+	text-decoration: none;
+	width: 10%;
+	height: 2em;
+	color: rgba(0, 0, 0, 1);
+}
+ul li:hover a{
+	color: rgba(0, 0, 255, 0.8);
+}
+section{
+	width: 100%;
+}
+.img{
+	float: left;
+	text-align: center;
+	width: 96%;
+	height: 14em;
+	margin: 2%;
+	margin-bottom: 2em;
+	background-color: grey;
+}
+.img2{
+	float: left;
+	text-align: center;
+	width: 96%;
+	height: 14.5em;
+	margin: 2%;
+	margin-bottom: 1em;
+	background-color: rgba(255, 0, 0, 0.9);
+	padding-top: 1.5%;
+}
+.img2 p{
+	color: rgba(255, 255, 255, 0.9);
+	margin-bottom: 5em;
+}
+.img2 a{
+	text-decoration: none;
+	font-size: 25px;
+	color: rgba(255, 255, 255, 0.9);
+}
+.img1{
+	float: left;
+	text-align: center;
+	width: 42%;
+	height: 14em;
+	margin: 2%;
+	//background-color: grey;
+}
+.img3{
+	width: 94%;
+	margin: auto;
+}
+div.section1{
+	float: left;
+	width: 50%;
+	margin-bottom: 1em;
+}
+div.section2{
+	float: left;
+	width: 50%;
+	margin-bottom: 1em;
+}
+div.section3{
+	float: left;
+	width: 70%;
+	margin-bottom: 1em;
+}
+div.section3 article{
+	width: 96%;
+	margin: auto;
+	height: 30em;
+	background-color: rgba(0, 128, 0, 0.6);
+	padding: 2%;
+	overflow: auto;
+}
+div.section4{
+	float: left;
+	width: 30%;
+	margin-bottom: 1em;
+}
+footer{
+	position: relative;
+	bottom: 0px;
+	clear: left;
+	width: 80%;
+	margin: auto;
+	height: 1.5em;
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+footer p a{
+	line-height: 1.5em;
+	text-decoration: none;
+	color: rgba(0, 0, 0, 1);
+}
+footer p a:hover{
+	color: rgba(255, 255, 255, 1);
+}
