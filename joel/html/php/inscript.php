@@ -152,9 +152,7 @@
                                                     </div>								
                                 </form>
                             
-			</div>
-			<a href="#overlay" data-rel="popup" data-role="button" data-inline="true">Recouvrement avec le thème A</a>
-<div id="overlay" data-role="popup" data-overlay-theme="a" class="ui-content">
+                        </div>
 		</section>
 		<footer>
 			<p>© Copyright 2015 - Lemoinscherdefrance.com - <a href="#" onclick="javascript:open_infos();">Mentions Légales</a> - <a href="#">Plan du site</a></p>
