@@ -2,7 +2,7 @@
 
 <div class="features_sec1">
     <h2 class="section_title_drakgray"><strong>Notre</strong> savoir faire</h2>
-    <p style="margin-top: -30px; margin-bottom: 40px;">Depuis plusieurs années le groupe INSTA MAIL MEDIA cherche la STRATEGIE DIGITAL dont vous avez besoin.<br/>Avec ces 4 Pôles de compétences ont arrive a aujourd'hui etre compétent dans tout ce que nous vous propossons.</p>
+    <p style="margin-top: -30px; margin-bottom: 40px;">Depuis plusieurs années le groupe Insta Mail Média cherche la stratégie digital dont vous avez besoin.<br/>Avec ces 4 Pôles de compétences ont arrive a aujourd'hui etre compétent dans tout ce que nous vous propossons.</p>
 
     <div class="container">
         <div id="main" role="main">
