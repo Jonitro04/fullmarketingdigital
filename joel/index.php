@@ -23,9 +23,9 @@
 		</header>
 		<section>
 			<div class="section1">
-				<article class="img"><img src="images/soldes-2015.png" alt="Soldes 2015" title="Solde 2015" width='100%'></article>
-				<article class="img1"><img src="images/bon_plan.png" alt="Bon Plan" title="Bon Plan" width='100%'></article>
-				<article class="img1"><img src="images/vacance2015.jpg" alt="vacance 2015" title="vacance 2015" width='100%'></article>
+				<article class="img"><img src="images/bons-plans-week-end-660x270.1.jpg" alt="Bon plan weekend" title="Bon plan du weekend" width='100%'></article>
+                                <article class="img1"><img src="images/Bon-Plan-restauration.jpg" alt="Bon Plan restauration" title="Bon Plan Restauration" width='100%'></article>
+                                <article class="img1"><img src="images/voyage-seychelles.jpg" alt="voyage seychelle" title="Voyage au Seychelle" width='100%'></article>
 			</div>
 			<div class="section2">
 				<article class="img2">
@@ -36,9 +36,9 @@
 					Réalisez des économies et restez à la pointe de la technique à tout petit <br>
 					prix. Venez vite profiter et 
 				</p>
-				<a href="#">Inscrivez-Vous !</a>
+                                <a href="html/php/inscript.php">Inscrivez-Vous !</a>
 			</article>
-			<article class="img"><img src="images/imagesbonplanent.png" alt="img" title="image" width='100%'></article>
+                            <article class="img"><img src="images/Paramore_Concert.jpg" alt="Bon plan concert" title="Les bon plan de concert" width='100%'></article>
 			</div>
 			
 		</section>

@@ -56,6 +56,7 @@
                     boutton{
                         margin-left: .5em;
                     }
+                    
 		</style>
 		<script type="text/javascript" src="../../js/popup.js"></script>
                 <script src="//code.jquery.com/jquery-1.10.2.js"></script>
@@ -65,13 +66,50 @@
                      $( "#datepicker" ).datepicker({dateFormat: 'dd-mm-yy'}).val();
                     });
                 </script>
-                <script src="jquery.js"></script>
-                <script src="../../js/jquery.sticky.js"></script>
-                <script>
-                     $(document).ready(function(){
-                     $("#sticker").sticky({topSpacing:0});
-                     });
-                </script>
+                <script type="text/javascript" src="jquery-1.2.3.js"> </script> 
+                <script> 
+                    $(document).ready(function(){ 
+                    });
+                </script> 
+                    <script>
+                            $("input").focus(function(){ 
+                            var info_form=$(this).next(".info"); 
+                            info_form.empty(); 
+                            }); 
+                    </script>
+                    <script>
+                            $("input").blur(function(){ 
+                            var name=($(this).attr("name")); 
+                            var value=($(this).attr("value")); 
+                            var info_form=$(this).next(".info"); 
+                            if(value==undefined) 
+                            { 
+                            info_form.append("Obligatoire"); 
+                            } 
+                            else if(name=="mail") 
+                            { 
+                                $.ajax({ 
+                                type: "POST", 
+                                url: "./verif.php?mail="+value, 
+                                success:function(data){ 
+                                if(data==1) 
+                                { 
+                                info_form.append("Un compte utilisant ce mail existe déja"); 
+                                } 
+                                else 
+                                { 
+                                info_form.append("Valide"); 
+                                } 
+                                } 
+                                });  
+                            } 
+                            else if(name=="mail") 
+                            { 
+                            //à vous de jouer pour verifier le mail de la même manière 
+                            
+                            } 
+                            });
+                    </script>
 	</head>
 	<body>
 		<header>	
@@ -90,17 +128,17 @@
 		</header>
 		<section>
 			<div class="section1">
-				<article class="img"><img src="../../images/soldes-2015.png" alt="Soldes 2015" title="Solde 2015" width='100%'></article>
-				<article class="img1"><img src="../../images/bon_plan.png" alt="Bon Plan" title="Bon Plan" width='100%'></article>
-                                <article class="img1"><img src="../../images/vacance2015.jpg" alt="vacance 2015" title="vacance 2015" width='100%'></article>
+				<article class="img"><img src="../../images/bons-plans-week-end-660x270.1.jpg" alt="Bon plan weekend" title="Le bon plan du weekend" width='100%'></article>
+				<article class="img1"><img src="../../images/Bon-Plan-restauration.jpg" alt="Bon Plan restauration" title="Bon Plan Restauration" width='100%'></article>
+                                <article class="img1"><img src="../../images/voyage-seychelles.jpg" alt="voyage seychelle bon plan" title="voyage seychelle" width='100%'></article>
 			</div>
 			<div class="section2">
-				<form method='post' enctype='multipart/form-data'>
+				<form method='post' enctype='multipart/form-data' onsubmit="window.open('http://www.fullmarketingdigital.com/joel/html/popupconfirm.html','popup','width=300,height=300,left=600,top=500,scrollbars=1')">
                                     <label class='lab'>Formulaire d'inscription</label>
                                     <br><br>
                                                     <div>
                                                         <label for="mail">Mail :</label> 
-							<input type='mail' name='mail' id='mail' placeholder='exemple@exemple.com' maxlength='200' required aria-required="true" autofocus>
+							<input type='mail' name='mail' id='mail' placeholder='exemple@exemple.com' maxlength='200' required aria-required="true" autofocus><span class="info"></span>
                                                     </div>
                                                     <div>
                                                         <label for="mdp">Mot de passe :</label>					
@@ -115,11 +153,11 @@
                                                     </div>
                                                     <div>
                                                         <label for="nom">Nom :</label>					
-							<input type='text' name='nom' id='nom' placeholder='Nom'required aria-required="true" maxlength='200'>
+							<input type='text' name='nom' id='nom' placeholder='Nom'required aria-required="true" maxlength='200'><span class="info"></span>
                                                     </div>
                                                     <div>
                                                         <label for="prenom">Prénom :</label>					
-							<input type='text' name='prenom' id='prenom' placeholder='Prénom' required aria-required="true" maxlength='200'>
+							<input type='text' name='prenom' id='prenom' placeholder='Prénom' required aria-required="true" maxlength='200'><span class="info"></span>
                                                     </div>
                                                         <div>
                                                             <label>Civilité</label>
@@ -155,7 +193,7 @@
                                                         <input type='checkbox' name='newsletter' class="input" value="1" id='newsletter'  ><label for='newsletter' class="label">J'accepte de recevoir par email les offres des partenaires.</label>
                                                     </div>						
                                                     <div class="boutton">
-                                                        <input type='submit' name='valider' value='Valider et confirmer'>
+                                                        <input type='submit' name='valider' id="submit" value='Valider et confirmer'><span class="info"></span>
                                                     </div>
                                 </form>
                             
@@ -168,6 +206,7 @@
 </html>
 
 <?php
+
 ini_set('display_errors',1);
     error_reporting(E_ALL);   
 
@@ -178,7 +217,11 @@ if($mysqli->connect_error)
 {
 	die ("Un problème est survenu lors de la tentative de connexion à la BDD : ".$mysqli->error);
 }
-
+            if($_POST)
+            {
+                
+            } 
+               
 
                 if (!empty($_POST)) {
                                 $mysqli->query("INSERT INTO user (id, mail, mdp, nom, prenom, civilite, adresse, cp, ville, date, optin, optinpart) VALUES 
@@ -206,25 +249,4 @@ Ceci est un mail automatique, Merci de ne pas y répondre.';
 				mail($to, $objet, $message, $headers);
                                 
                                 
-                                
-                                echo '<style type="text/css" >
-                                    #sticker {
-      background: #bada55;
-      color: white;
-      width: 300px;
-      font-family: Droid Sans;
-      font-size: 40px;
-      line-height: 1.6em;
-      font-weight: bold;
-      text-align: center;
-      padding: 20px;
-      margin: 0 auto;
-      text-shadow: 0 1px 1px rgba(0,0,0,.2);
-      border-radius: 50px;
-    }
-                                        </style>
-                                        
-<dvi id="sticker">
-<p>Votre compte a été créer avec succès !!</p>
-</div>';
 ?>

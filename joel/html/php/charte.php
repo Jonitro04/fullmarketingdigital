@@ -49,9 +49,9 @@ Iis igitur est difficilius satis facere, qui se Latina scripta dicunt contemnere
 				</article>
 			</div>
 			<div class="section4">
-				<article class="img3"><img src="../../images/soldes-2015.png" alt="Soldes 2015" title="Solde 2015" width='100%'></article>
-				<article class="img3"><img src="../../images/bon_plan.png" alt="Bon Plan" title="Bon Plan" width='100%'></article>
-				<article class="img3"><img src="../../images/vacance2015.jpg" alt="vacance 2015" title="vacance 2015" width='100%'></article>
+				<article class="img3"><img src="../../images/bons-plans-week-end-660x270.1.jpg" alt="Bon plan weekend" title="Le bon plan du weekend" width='100%'></article>
+				<article class="img3"><img src="../../images/Bon-Plan-restauration.jpg" alt="Bon Plan restauration" title="Bon Plan Restauration" width='100%'></article>
+				<article class="img3"><img src="../../images/voyage-seychelles.jpg" alt="voyage seychelle bon plan" title="voyage seychelle" width='100%'></article>
 			</div>
 			
 		</section>
